@@ -1,0 +1,5 @@
+// export const SET_TITLE_STATE = "SET_TITLE_STATE";
+// export const SET_DECKS_STATE = "SET_DECKS_STATE";
+// export const SET_TITLE_STATE_EMPTY = "SET_TITLE_STATE_EMPTY";
+// export const UPDATE_DECKS_STATE = "UPDATE_DECKS_STATE";
+// export const GET_ALL_DECKS = "GET_ALL_DECKS";

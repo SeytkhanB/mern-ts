@@ -1,0 +1,13 @@
+{
+  "name": "flash-cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd server && npm run setup-production",
+    "dev": "cd server && npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
